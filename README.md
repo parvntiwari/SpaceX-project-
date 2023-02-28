@@ -1,4 +1,6 @@
 # SpaceX-Project-
-SpaceX has gained worldwide attention for a series of historic milestones. It is the only private company ever to return a spacecraft from low-Earth orbit, which it first accomplished in December 2010. The company made history again in May 2012 when its Dragon spacecraft attached to the International Space Station, exchanged cargo payloads, and returned safely to Earth — a technically challenging feat previously accomplished only by governments. Since then Dragon has delivered cargo to and from the space station multiple times, providing regular cargo resupply missions for NASA.
 
-Under a $1.6 billion contract with NASA, SpaceX is flying numerous cargo resupply missions to the International Space Station, for a total of at least 20 flights under the Commercial Resupply Services contract. In 2016, NASA awarded SpaceX a second version of that contract that will cover a minimum of 6 additional flights from 2019 onward. In the near future, SpaceX will carry crew as part of NASA’s Commercial Crew Program as well. Dragon was designed from the outset to carry astronauts and SpaceX is in the process of upgrading Dragon to make it crew-ready. SpaceX is the world’s fastest-growing provider of launch services and has over 70 future missions on its manifest, representing over $10 billion in contracts. These include commercial satellite launches as well as NASA and other US Government missions.
+SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars, other provides cost upwards of 165 million dollars, much of the savings is because SpaceX can reuse the first stage.
+The project task is to predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully
+
+
